@@ -1,0 +1,23 @@
+body {
+	background-color: skyblue;
+}
+#intro, #end {
+	background-color: #b4b4b4;
+	color: #D16014;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: "Open Sans", sans-serif;
+	
+h1 {
+	border:2px blueviolet dotted;
+}
+
+section{
+	height: 600px;
+	text-align: center;
+	font-size: 24px;
+	font-family: "Montserrat", sans-serif;
+	background-color: peachpuff;
+}
